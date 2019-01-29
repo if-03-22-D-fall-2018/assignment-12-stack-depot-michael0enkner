@@ -17,7 +17,7 @@ TEST(create_stack)
 
 TEST(add_items_to_stack)
 {
-	Stack stack = create_stack ();
+	Stack stack = create_stack();
 
 	Product products[] = {
         {1},
